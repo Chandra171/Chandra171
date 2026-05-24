@@ -24,23 +24,9 @@
 
 🌱 Currently learning:
 - Data Engineering
+- Data Analytics
 - Automation & Web Scraping
 - Advanced Python for Analytics
-
----
-
-## 💼 Experience
-
-### Customer Segmentation & Proposition Officer  
-**PT Bank Mega Syariah**  
-📅 March 2024 – October 2025
-
-- Analyzed customer segmentation and funding product performance
-- Processed large datasets using SQL & Excel
-- Conducted exploratory data analysis (EDA)
-- Built reports and dashboards for business monitoring
-- Delivered insights to support strategic decision-making
-- Supported stakeholders with ad-hoc and historical data analysis
 
 ---
 
@@ -58,27 +44,6 @@
   <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </p>
-
----
-
-## 📌 Featured Project
-
-### 🕸️ Eneba Web Scraping Project
-Built a web scraping pipeline to extract product data from Eneba including:
-- Prices
-- Discounts
-- Ratings
-
-### ⚙️ Technologies Used
-`Python` • `Pandas` • `Selenium` • `BeautifulSoup` • `PostgreSQL`
-
----
-
-## 🎓 Education
-
-🎓 **Bachelor of Computer Science**  
-Sriwijaya University  
-GPA: 3.62 / 4.00
 
 ---
 
